@@ -9,3 +9,5 @@ streamlit.text(' 🥣 🥗 🐔 🥑 🍞')
 streamlit.text('Text2!')
 streamlit.text('Text3!')
 streamlit.text('Text4!')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
